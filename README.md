@@ -7,9 +7,11 @@ Demonstrating face detection using Multi-Task Convolutional Neural Network.
 * Mtcnn
 
 # Demonstration 
-
+MTCNN did quite well. The following are some of the result we have obtained. We can see that the model is able to detect faces of 3D animation, a group of people and a single subject
 ### Detecting a single face
 ![alt text](https://github.com/Jihad-R/Face-Detection-Using-Deep-Learning-MTCNN-/blob/master/test%201%20full.jpg)
 ### Detecting multiple faces
-
+![alt text](https://github.com/Jihad-R/Face-Detection-Using-Deep-Learning-MTCNN-/blob/master/test%203%20full.jpg)
 ### Detecting an animated face
+![alt text](https://github.com/Jihad-R/Face-Detection-Using-Deep-Learning-MTCNN-/blob/master/test%202%20full.jpg)
+
