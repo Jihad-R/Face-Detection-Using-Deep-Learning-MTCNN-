@@ -15,3 +15,7 @@ MTCNN did quite well. The following are some of the result we have obtained. We 
 ### Detecting an animated face
 ![alt text](https://github.com/Jihad-R/Face-Detection-Using-Deep-Learning-MTCNN-/blob/master/test%202%20full.jpg)
 
+# Future Works 
+* Add video face detection 
+* Add face recognition for Images
+* Add face recognition for videos
