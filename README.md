@@ -16,6 +16,6 @@ MTCNN did quite well. The following are some of the result we have obtained. We 
 ![alt text](https://github.com/Jihad-R/Face-Detection-Using-Deep-Learning-MTCNN-/blob/master/test%202%20full.jpg)
 
 # Future Works 
+* Improve the models performance by tweaking the weights 
 * Add video face detection 
-* Add face recognition for Images
-* Add face recognition for videos
+
